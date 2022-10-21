@@ -7,7 +7,7 @@ Principalmente para el desarrollo de aplicaciones **Web** utilizo **Angular**; p
 
 Para el desarrollo de aplicaciones **Moviles** utilizó principalmente **Ionic**, pues este framework permite realizar aplicaciones muy robustas que pueden ser ejecutadas en iOS y Android con un solo código.
 
-## Mis proyectos
+## Mis proyectos recientes
 
 * [Lista de precios Forever Living Product](http://precios.factble.com) | Aplicación web punto de venta para lista de precios FLP | - _Personal_
 * [Historial Clínico](https://github.com/gusfravo/about_me/blob/main/historia_clinico_app.md) | Aplicativo móvil para gestión de historial clínico de pacientes 
